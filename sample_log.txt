@@ -1,0 +1,15 @@
+User login success from 192.168.1.2
+Failed login attempt from 45.23.12.10
+System error detected in authentication module
+User login success from 192.168.1.5
+Unauthorized access attempt detected
+Invalid user login attempt
+Access denied for user admin
+User login success from 192.168.1.2
+Failed login attempt from 45.23.12.10
+Failed login attempt from 45.23.12.10
+System error detected in authentication module
+Unauthorized access attempt from 78.22.90.1
+Failed login attempt from 45.23.12.10
+Invalid user login attempt from 78.22.90.1
+Access denied for user admin from 78.22.90.1
