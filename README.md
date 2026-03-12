@@ -1,4 +1,4 @@
-# Log Analyzer - Digital Forensics Projec
+# Log Analyzer 
 
 # Project Overview
 This project analyzes system log files and detects suspicious activities such as failed login attempts, errors and unauthorized access.
